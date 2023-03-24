@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="style.css">
+ 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-Dji2eQ/lT3GyTbTtjiP0tJNbRD3GBrOMZoW0g0sGBy2QJSJ0dAKlt2Q+XdzLJ2Sl" crossorigin="anonymous">
+	<title>Запись на аттестацию</title>
+</head>
+<body>
+	<header>
+		<nav>
+                  <div class="logo">
+			<a href="index.html"><img src="logo.png" alt="логотип"></a>
+			</div>
+			<ul>
+				<li><a href="index.html">о себе</a></li>
+				<li><a href="resume.html">резюме</a></li>
+				<li><a href="certification.html">запись на аттестацию</a></li>
+			</ul>
+		</nav>
+	</header>
+<main>
+	<h1>Запись на аттестацию</h1>
+	<p>Для записи на аттестацию заполните форму ниже:</p>
+	<form action="submit_certification.php" method="post">
+		<label for="name">ФИО:</label>
+		<input type="text" id="name" name="name" required>
+
+		<label for="email">Email:</label>
+		<input type="email" id="email" name="email" required>
+
+		<label for="phone">Телефон:</label>
+		<input type="tel" id="phone" name="phone" required>
+
+		<label for="date">Дата аттестации:</label>
+		<input type="date" id="date" name="date" required>
+
+		<label for="time">Время аттестации:</label>
+		<input type="time" id="time" name="time" required>
+
+		<input type="submit" value="Отправить">
+	</form>
+</main>
+
+<footer>
+        <div class="social">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+        <div class="credits">
+            <p>Сайт разработан <span>ФИ</span>.</p>
+            <p>Copyright © 2023.</p>
+        </div>
+</footer>
+
+<script src="https://kit.fontawesome.com/ваш_ключ.js" crossorigin="anonymous"></script>
+</body>
+</html>
