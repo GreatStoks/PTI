@@ -2,18 +2,18 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Резюме</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Персональный сайт</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/dd180fc14e.js" crossorigin="anonymous"></script>
+    <script src="index.js" async></script>
 </head>
 <body>
     <header>
-
 	<nav>
         <div class="logo">
-			<a href="index.html"><img src="logo.png" alt="логотип"></a>
+			<a href="index.html"><img id="logo" src="logo.png" alt="логотип"></a>
+            <button id="changeColorButton">Нажми меня</button>
         </div>
         
             <ul>
@@ -24,40 +24,13 @@
         </nav>
     </header>
     <main>
-        <h1>Резюме</h1>
-	    <table>
-        <h2>Опыт работы</h2>
-
-
-        <ul>
-
-            <tr>
-		<td><li>2021-2022 - Программист в компании такой то</li></td>
-		</tr>
-		<tr>
-            <td><li>2020-2021 - Ассистент программиста в компании такой то</li></td>
-		
-		</tr>
-        </ul>
-
-
-        <tr><td><h2>Образование</h2></td>
-        <ul>
-            <li>2018-2022 - университет дубна, бакалавр</li>
-        </ul>
-	    </tr>
-        <tr><h2>Навыки</h2>
-        <ul>
-        <td>   
-		<li>Java</li>
-            <li>C#</li>
-            <li>Python</li>
-            <li>HTML/CSS/JavaScript</li>
-            <li>MySQL</li>
-	    </td>
-        </ul>
-		</tr>
-	</table>
+        <h1 id="takoito">Такойто Такойтович</h1>
+      <h1>НЕОН</h1>
+        <p>Группа ПИС 19</p>
+		<img id="ekshon" src="ekshon.jpg" alt="EKSH">
+        <img id="takoito" src="takoito.jpg" alt="Такойто Такойтович">
+        <p>Название и ссылка на сервер ВУЗа: <a href="https://lms.uni-dubna.ru/">Университет Дубна</a></p>
+        <p>Я студент ПИС 19, делаю то то и увлекаюсь тем то тем то.</p>
     </main>
     <footer>
         <div class="social">
@@ -73,5 +46,7 @@
             <p>Copyright © 2023.</p>
         </div>
     </footer>
+
+    <script src="important_script.js" defer></script>
 </body>
 </html>
