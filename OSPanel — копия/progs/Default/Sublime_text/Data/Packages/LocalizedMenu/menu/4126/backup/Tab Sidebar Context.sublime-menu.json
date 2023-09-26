@@ -1,0 +1,59 @@
+[
+    {
+        "caption": "Закрыть", 
+        "args": {
+            "group": -1
+        }, 
+        "command": "close_selected"
+    }, 
+    {
+        "caption": "Закрыть другие файлы", 
+        "args": {
+            "group": -1, 
+            "index": -1
+        }, 
+        "command": "close_others_by_index"
+    }, 
+    {
+        "caption": "Закрыть неизменённые файлы", 
+        "args": {
+            "group": -1, 
+            "index": -1
+        }, 
+        "command": "close_unmodified"
+    }, 
+    {
+        "caption": "Закрыть другие файлы ниже", 
+        "args": {
+            "group": -1, 
+            "index": -1
+        }, 
+        "command": "close_to_right_by_index"
+    }, 
+    {
+        "caption": "Закрыть неизменённые файлы ниже", 
+        "args": {
+            "group": -1, 
+            "index": -1
+        }, 
+        "command": "close_unmodified_to_right_by_index"
+    }, 
+    {
+        "caption": "Закрыть удалённые файлы", 
+        "args": {
+            "group": -1
+        }, 
+        "command": "close_deleted_files"
+    }, 
+    {
+        "caption": "-"
+    }, 
+    {
+        "caption": "Новый файл", 
+        "command": "new_file"
+    }, 
+    {
+        "caption": "Открыть файл", 
+        "command": "prompt_open_file"
+    }
+]

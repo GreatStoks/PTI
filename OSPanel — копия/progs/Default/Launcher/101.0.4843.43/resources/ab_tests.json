@@ -1,0 +1,169 @@
+// hRyHOc4dl09rsF+og7loUv30udI9I6439cNm0tc1IBzF5RJlufx0zfHB1hbC9HPaqpAcv1Rk3lyNucyLZWldUDN/zVxsaIDCMQMluHCzI50KpumsyOsLLVTfEqg9SZ6IPeN3iooHWAVAsQcA7kve2qy43GrCiJkLYrqFLnR0hqbvX38Z5ZPTWKRw4v8bL6oDCdgkd70mX6x2//6NcvCvvsYlbBclxw17AuwfwHFn3TDeBV+H20Ku4IIToP2/S/EEDD2ewj1/85rOPoowu0MfBj9uK3ovyos4YnyzeocPvaTaYjsFDXxDRV0F/H/zdeAW50ttpyZizb1MPUFMn7mK7g==
+{
+  "version": 202303141,
+  "tests": [
+    {
+      "name": "DNA-77043",
+      "total_test_percentage": 10,
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-77043-test",
+          "preferences": {
+            "speeddial.bigger_tiles_ab_test_enabled": true,
+            "speeddial.bigger_tiles_ab_test_value": true
+          }
+        },
+        {
+          "name": "DNA-77043-ref",
+          "preferences": {
+            "speeddial.bigger_tiles_ab_test_enabled": true,
+            "speeddial.bigger_tiles_ab_test_value": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-81662-mx",
+      "total_test_percentage": 50,
+      "country": "mx",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-81662-mx-test",
+          "features": {
+            "suggestions-lift-up-for-non-sd": true
+          },
+          "preferences": {}
+        },
+        {
+          "name": "DNA-81662-mx-ref",
+          "features": {
+            "suggestions-lift-up-for-non-sd": false
+          },
+          "preferences": {}
+        }
+      ]
+    },
+    {
+      "name": "DNA-86173",
+      "total_test_percentage": 100,
+      "country": "ru",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-86173-test",
+          "preferences": {
+            "startpage.compact_layout_ab_test_enabled": true,
+            "startpage.compact_layout_ab_test_value": true
+          }
+        },
+        {
+          "name": "DNA-86173-ref",
+          "preferences": {
+            "startpage.compact_layout_ab_test_enabled": true,
+            "startpage.compact_layout_ab_test_value": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-88497",
+      "total_test_percentage": 100,
+      "country": "by",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-88497-test",
+          "features": {
+            "suggestions-lift-up-for-non-sd": true
+          },
+          "preferences": {}
+        },
+        {
+          "name": "DNA-88497-ref",
+          "features": {
+            "suggestions-lift-up-for-non-sd": false
+          },
+          "preferences": {}
+        }
+      ]
+    },
+    {
+      "name": "DNA-90394",
+      "total_test_percentage": 20,
+      "country": "ru",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-90394-test",
+          "features": {
+            "address-bar-yandex-box": true
+          },
+          "preferences": {
+            "ab_testing.yandex_box_type": 1
+          }
+        },
+        {
+          "name": "DNA-90394-ref",
+          "features": {
+            "address-bar-yandex-box": true
+          },
+          "preferences": {
+            "ab_testing.yandex_box_type": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-92000",
+      "total_test_percentage": 100,
+      "country": "es",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-92000-test",
+          "preferences": {
+            "cashback.hide_workspace_abtest": 1
+          }
+        },
+        {
+          "name": "DNA-92000-ref",
+          "preferences": {
+            "cashback.hide_workspace_abtest": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-105606",
+      "total_test_percentage": 50,
+      "country": [
+        "br",
+        "de",
+        "fr",
+        "in",
+        "pl",
+        "ru",
+        "tr",
+        "ua",
+        "us"
+      ],
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-105606-news-on-startpage-enabled",
+          "preferences": {
+            "startpage.news_ab_test_enabled": true
+          }
+        },
+        {
+          "name": "DNA-105606-ref",
+          "preferences": {
+            "startpage.news_ab_test_enabled": false
+          }
+        }
+      ]
+    }
+  ]
+}

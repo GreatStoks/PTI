@@ -1,0 +1,174 @@
+// flk5ccZfXh2Xm8fJJUtiSUEcwyoRSrbma/PRFrzL+tDvFVzvZdt/xT2cnMhduEcyb/NgCCb/kFG4JWx/fGz69tM/0CtfAmQAPncDkVFRnDyHkHa9MtC4MlK9YmO5eFz/4bzzTX2qkNvb6qrUV9d/DNbNu4pIuPyK1gggu6OonKLQuoZsfAyQHn0oMiibmKnZuApT1i7+md435/8bytso2Z7LsbBKDgPzV0nA+xEwvVdZ+kkdYvfNDuLPpiQbyQyzLOoIh7LGScn6OHBCueJzwr8Ww28c7sFPFkBk7P9rHtX2X6CMMct9ghdeMcCtWH4wFrFkKt68urvPOilscqKJmg==
+{
+  "version": 202309052,
+  "tests": [
+    {
+      "name": "DNA-77043",
+      "total_test_percentage": 10,
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-77043-test",
+          "preferences": {
+            "speeddial.bigger_tiles_ab_test_enabled": true,
+            "speeddial.bigger_tiles_ab_test_value": true
+          }
+        },
+        {
+          "name": "DNA-77043-ref",
+          "preferences": {
+            "speeddial.bigger_tiles_ab_test_enabled": true,
+            "speeddial.bigger_tiles_ab_test_value": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-81662-mx",
+      "total_test_percentage": 50,
+      "country": "mx",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-81662-mx-test",
+          "features": {
+            "suggestions-lift-up-for-non-sd": true
+          },
+          "preferences": {}
+        },
+        {
+          "name": "DNA-81662-mx-ref",
+          "features": {
+            "suggestions-lift-up-for-non-sd": false
+          },
+          "preferences": {}
+        }
+      ]
+    },
+    {
+      "name": "DNA-86173",
+      "total_test_percentage": 100,
+      "country": "ru",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-86173-test",
+          "preferences": {
+            "startpage.compact_layout_ab_test_enabled": true,
+            "startpage.compact_layout_ab_test_value": true
+          }
+        },
+        {
+          "name": "DNA-86173-ref",
+          "preferences": {
+            "startpage.compact_layout_ab_test_enabled": true,
+            "startpage.compact_layout_ab_test_value": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-88497",
+      "total_test_percentage": 100,
+      "country": "by",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-88497-test",
+          "features": {
+            "suggestions-lift-up-for-non-sd": true
+          },
+          "preferences": {}
+        },
+        {
+          "name": "DNA-88497-ref",
+          "features": {
+            "suggestions-lift-up-for-non-sd": false
+          },
+          "preferences": {}
+        }
+      ]
+    },
+    {
+      "name": "DNA-90394",
+      "total_test_percentage": 20,
+      "country": "ru",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-90394-test",
+          "features": {
+            "address-bar-yandex-box": true
+          },
+          "preferences": {
+            "ab_testing.yandex_box_type": 1
+          }
+        },
+        {
+          "name": "DNA-90394-ref",
+          "features": {
+            "address-bar-yandex-box": true
+          },
+          "preferences": {
+            "ab_testing.yandex_box_type": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-92000",
+      "total_test_percentage": 100,
+      "country": "es",
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-92000-test",
+          "preferences": {
+            "cashback.hide_workspace_abtest": 1
+          }
+        },
+        {
+          "name": "DNA-92000-ref",
+          "preferences": {
+            "cashback.hide_workspace_abtest": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "GROW-2836",
+      "total_test_percentage": 100,
+      "country": [
+        "gb",
+        "us"
+      ],
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "GROW-2836-ref",
+          "preferences": {
+            "ab_testing.cashback_badge_variant": 0
+          }
+        },
+        {
+          "name": "GROW-2836-test-1",
+          "preferences": {
+            "ab_testing.cashback_badge_variant": 1
+          }
+        },
+        {
+          "name": "GROW-2836-test-2",
+          "preferences": {
+            "ab_testing.cashback_badge_variant": 2
+          }
+        },
+        {
+          "name": "GROW-2836-test-3",
+          "preferences": {
+            "ab_testing.cashback_badge_variant": 3
+          }
+        }
+      ]
+    }
+  ]
+}

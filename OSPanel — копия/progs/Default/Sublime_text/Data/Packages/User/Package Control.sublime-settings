@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ApacheConf",
+		"Bind Zone files",
+		"ColorHelper",
+		"DocBlockr",
+		"EML Syntax",
+		"Emmet",
+		"INI",
+		"LocalizedMenu",
+		"nginx",
+		"Package Control",
+		"Status Bar File Size",
+		"Xdebug Client",
+	],
+}

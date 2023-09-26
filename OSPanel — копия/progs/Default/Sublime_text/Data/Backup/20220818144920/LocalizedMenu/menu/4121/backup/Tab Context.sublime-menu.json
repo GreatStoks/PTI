@@ -1,0 +1,71 @@
+[
+    {
+        "caption": "Закрыть", 
+        "args": {
+            "group": -1, 
+            "index": -1
+        }, 
+        "command": "close_by_index"
+    }, 
+    {
+        "caption": "Закрыть другие вкладки", 
+        "args": {
+            "group": -1, 
+            "index": -1
+        }, 
+        "command": "close_others_by_index"
+    }, 
+    {
+        "caption": "Закрыть вкладки справа", 
+        "args": {
+            "group": -1, 
+            "index": -1
+        }, 
+        "command": "close_to_right_by_index"
+    }, 
+    {
+        "caption": "Закрыть неизменённые вкладки", 
+        "args": {
+            "group": -1
+        }, 
+        "command": "close_unmodified"
+    }, 
+    {
+        "caption": "Закрыть неизменённые вкладки справа", 
+        "args": {
+            "group": -1, 
+            "index": -1
+        }, 
+        "command": "close_unmodified_to_right_by_index"
+    }, 
+    {
+        "caption": "Закрыть вкладки с удалёнными файлами", 
+        "args": {
+            "group": -1
+        }, 
+        "command": "close_deleted_files"
+    }, 
+    {
+        "caption": "-"
+    }, 
+    {
+        "caption": "Дублировать файл", 
+        "args": {
+            "group": -1, 
+            "index": -1, 
+            "add_to_selection": true
+        }, 
+        "command": "clone_file"
+    }, 
+    {
+        "caption": "-"
+    }, 
+    {
+        "caption": "Новый файл", 
+        "command": "new_file"
+    }, 
+    {
+        "caption": "Открыть файл", 
+        "command": "prompt_open_file"
+    }
+]

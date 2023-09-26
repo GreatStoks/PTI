@@ -1,0 +1,94 @@
+[
+    {
+        "caption": "Открыть URL контекста", 
+        "command": "open_context_url"
+    }, 
+    {
+        "caption": "Перейти к определению", 
+        "command": "goto_definition"
+    }, 
+    {
+        "id": "diff", 
+        "caption": "-"
+    }, 
+    {
+        "caption": "Переключить разницу", 
+        "command": "toggle_inline_diff"
+    }, 
+    {
+        "caption": "Вернуть кусок разницы", 
+        "command": "revert_hunk"
+    }, 
+    {
+        "id": "clipboard", 
+        "caption": "-"
+    }, 
+    {
+        "caption": "Вырезать", 
+        "command": "cut"
+    }, 
+    {
+        "caption": "Копировать", 
+        "command": "copy"
+    }, 
+    {
+        "caption": "Вставить", 
+        "command": "paste"
+    }, 
+    {
+        "id": "selection", 
+        "caption": "-"
+    }, 
+    {
+        "caption": "Выделить всё", 
+        "command": "select_all"
+    }, 
+    {
+        "id": "repo_commands", 
+        "caption": "-"
+    }, 
+    {
+        "caption": "Открыть Git репозиторий…", 
+        "command": "sublime_merge_open_repo"
+    }, 
+    {
+        "caption": "История файла…", 
+        "command": "sublime_merge_file_history"
+    }, 
+    {
+        "caption": "История строк…", 
+        "command": "sublime_merge_line_history"
+    }, 
+    {
+        "caption": "Кто редактировал…", 
+        "command": "sublime_merge_blame_file"
+    }, 
+    {
+        "id": "file", 
+        "caption": "-"
+    }, 
+    {
+        "caption": "Открыть в браузере", 
+        "command": "open_in_browser"
+    }, 
+    {
+        "caption": "Открыть папку файла…", 
+        "args": {
+            "file": "$file_name", 
+            "dir": "$file_path"
+        }, 
+        "command": "open_dir"
+    }, 
+    {
+        "caption": "Копировать путь к файлу", 
+        "command": "copy_path"
+    }, 
+    {
+        "caption": "Показать в боковой панели", 
+        "command": "reveal_in_side_bar"
+    }, 
+    {
+        "id": "end", 
+        "caption": "-"
+    }
+]

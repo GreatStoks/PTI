@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html class="ua_js_no" lang="ru">
+<head>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+    <script>(function (e, c) { e[c] = e[c].replace(/(ua_js_)no/g, "$1yes"); })(document.documentElement, "className");</script>
+    <title></title>
+    <meta content='https://showjet.tv/videos/3331' property='og:video'>
+    <meta content='application/x-shockwave-flash' property='og:video:type'>
+    <meta content='2258' property='og:video:duration'>
+    <meta content='https://showjet.tv/videos/3331' property='og:video:iframe'>
+    <meta content='' property='og:video:image'>
+    <meta name="csrf-param" content="authenticity_token" />
+    <meta name="csrf-token" content="nBtckN7J16ZOVRxH8YlkUXvjkaI//dyT0DE+lHodPOsYM5t7hF3vjvQDcAMldS0phVh/HzlM52O8ZYZlaJ8Y/Q==" />
+    <meta name="wot-verification" content="7704def379a826b6da97" />
+    <meta name="yandex-verification" content="89a7249fc54d046b" />
+    <link rel="shortcut icon" href="/Images/favicon2.ico" />
+    
+    <link href="/Player/css/rmp-vast.min.css?v=5bz_0m5godS3ZWY8r5OF7k3Y4fsCIJDRNjfIP1GRCoE" rel="stylesheet" />
+
+    <style>
+        html, body {
+            height: 100%;
+            width: 100%;
+            background-color: #000;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <link rel="stylesheet" href="/css/ads-custom.css" />
+</head>
+<body id="videoBody">
+    <div id="floatPoster" style="position: absolute; top:0; left:0; right:0; bottom:0; display: none; z-index:999999; background-color: black;">
+</div>
+<div id="contentPlayer" style="position: absolute; margin: 0; padding: 0; display: none;"></div>
+<div id="adContainer" class="adContainer">
+</div>
+<div class="rmp-waring-content" style="display:none;">
+    <div id="circle" class="circle" data-text="0&#x2B;"></div>
+    <div class="label">Данный контент может содержать сцены сексуального характера, употребления алкоголя и табакокурения. Напоминаем, что курение вредит вашему здоровью. </div>
+</div>
+<div id="adBlock" style="position: fixed; width: 100%; height: 100%; left: 0; top: 0; background-color: #333333; z-index: 10; display: none;">
+    <div style="height: 100px; width: 100%; background-image: url(/images/adblock.png); background-repeat: no-repeat; background-position: center; margin-top: 6%; background-size: contain;"></div>
+    <div style="margin: 0 auto; margin-top: 15px; color: #c7a8a8; font-size: 24px; text-align: center;">ОТКЛЮЧИ ADBLOCK</div>
+    <div style="margin: 0 auto; margin-top: 15px; color: #c7a8a8; font-size: 24px; text-align: center;">И СМОТРИ СЕРИАЛЫ БЕЗ ОГРАНИЧЕНИЙ</div>
+    <div style="margin: 0 auto; margin-top: 15px; color: #c4c2c2; font-size: 20px; text-align: center;"><a href="/faq" style="color: #c4c2c2;" target="_blank">Узнай, как отключить AdBlock</a></div>
+    <div style="position: fixed; right: 25px; bottom: 25px;height: 55px; width:185px; background-image: url(/images/Logo1.png); background-repeat: no-repeat; background-position: center;"></div>
+</div>
+
+
+
+
+
+    
+    <script type="text/javascript">
+        var partnerId = 255
+        ,duration = 2258
+        ,startDate = Date.now()
+        ,isTrailer = true
+        ,ismuted = true
+        ,showAdv = true
+        ,id = 3331
+        ,nextId = 0
+        ,protectionData = "1"
+        ,bitrates = {}
+        ,isPromo = true
+        ,serialLink = "https://showjet.ru/serials/3370"
+        ,serialId = 3370
+        ,volume = 0/1000
+        ,chrome = 112
+        ,floatBanner = false
+        ,sj10 = false
+        ,isShowLogo = true
+        ,adsCountByPosition = [3,2,2];
+
+var bitrates = {hls: 'https://strm-msknrd.showjet.ru/rc-01/enc/aes/fhd/hd_audio/a0f1c776-7cb0-485b-aa8e-b052a16f3efd.ism/.m3u8',}
+
+        var schedule = [[{"url":"https://ad.mail.ru/vast/845945?dl=[domain]","adName":"ad1014","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/845945?dl=[domain]","adName":"ad1014","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/845945?dl=[domain]","adName":"ad1014","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/106086","adName":"mytarget","checkVisibility":false,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/106086","adName":"mytarget","checkVisibility":false,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/106086","adName":"mytarget","checkVisibility":false,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=221219&bn=3&bt=61&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&tuid=1&rnd=[rnd]&tail256=[domain]","adName":"ad3300","checkVisibility":true,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=221219&bn=3&bt=61&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&tuid=1&rnd=[rnd]&tail256=[domain]","adName":"ad3300","checkVisibility":true,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=221219&bn=3&bt=61&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&tuid=1&rnd=[rnd]&tail256=[domain]","adName":"ad3300","checkVisibility":true,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=224320&bn=1&bt=61&tuid=1&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&rnd=00[rnd]&tail256=[domain]","adName":"ad3320","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=224320&bn=1&bt=61&tuid=1&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&rnd=00[rnd]&tail256=[domain]","adName":"ad3320","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=224320&bn=1&bt=61&tuid=1&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&rnd=00[rnd]&tail256=[domain]","adName":"ad3320","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://cdn-rtb.sape.ru/rtb-b/vast/795/825795.xml","adName":"ad2302","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://clientside-video-bidder.rutarget.ru/bid?url=[domain]&request_id=00[rnd]&placement_id=1324&placement=1&protocols=2&protocols=3&protocols=5&protocols=6&mimes=application/javascript&vd_api_0=VPAID_2_0&video_skippable=allow","adName":"ad4010","checkVisibility":true,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://clientside-video-bidder.rutarget.ru/bid?url=[domain]&request_id=00[rnd]&placement_id=1324&placement=1&protocols=2&protocols=3&protocols=5&protocols=6&mimes=application/javascript&vd_api_0=VPAID_2_0&video_skippable=allow","adName":"ad4010","checkVisibility":true,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://clientside-video-bidder.rutarget.ru/bid?url=[domain]&request_id=00[rnd]&placement_id=1324&placement=1&protocols=2&protocols=3&protocols=5&protocols=6&mimes=application/javascript&vd_api_0=VPAID_2_0&video_skippable=allow","adName":"ad4010","checkVisibility":true,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://pub-eu.p.otm-r.com/get?placement_id=27369&placement=1","adName":"OTM_lc","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://pub-eu.p.otm-r.com/get?placement_id=27369&placement=1","adName":"OTM_lc","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://pub-eu.p.otm-r.com/get?placement_id=27369&placement=1","adName":"OTM_lc","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://relap.mail.ru/vast/showjet_outstream?domain=[domain]","adName":"ad2107","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://relap.mail.ru/vast/showjet_outstream?domain=[domain]","adName":"ad2107","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://relap.mail.ru/vast/showjet_outstream?domain=[domain]","adName":"ad2107","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ssp.bidvol.com/vast/pl25610?domain=[domain]","adName":"ad4300","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ssp.bidvol.com/vast/pl25610?domain=[domain]","adName":"ad4300","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ssp.bidvol.com/vast/pl25610?domain=[domain]","adName":"ad4300","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/936894?dl=[DOMAIN]","adName":"adcamp2","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":true,"minPlayerSize":0,"MRImp":true,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/936894?dl=[DOMAIN]","adName":"adcamp2","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":true,"minPlayerSize":0,"MRImp":true,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/936894?dl=[DOMAIN]","adName":"adcamp2","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":true,"minPlayerSize":0,"MRImp":true,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://moevideo.biz/vast?ref=showjet.ru&impressionAfterPaid=1&vl=1&es=1&referer=[domain]","adName":"MV","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://moevideo.biz/vast?ref=showjet.ru&impressionAfterPaid=1&vl=1&es=1&referer=[domain]","adName":"MV","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://moevideo.biz/vast?ref=sj70.ru&impressionAfterPaid=1&vl=1&es=1&maxAds=5&referer=[domain]","adName":"ad2110","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://moevideo.biz/vast?ref=sj70.ru&impressionAfterPaid=1&vl=1&es=1&maxAds=5&referer=[domain]","adName":"ad2110","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.video-mech.ru/tag/99921","adName":"ad1831","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://svr.adstreamer.ru/vpaid.php/1399","adName":"ad3600","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://svr.adstreamer.ru/vpaid.php/1399","adName":"ad3600","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://svr.adstreamer.ru/vpaid.php/1399","adName":"ad3600","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false}],[{"url":"https://ad.mail.ru/vast/845945?dl=[domain]","adName":"ad1014","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/845945?dl=[domain]","adName":"ad1014","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/106086","adName":"mytarget","checkVisibility":false,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=221219&bn=3&bt=61&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&tuid=1&rnd=[rnd]&tail256=[domain]","adName":"ad3300","checkVisibility":true,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=221219&bn=3&bt=61&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&tuid=1&rnd=[rnd]&tail256=[domain]","adName":"ad3300","checkVisibility":true,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=224320&bn=1&bt=61&tuid=1&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&rnd=00[rnd]&tail256=[domain]","adName":"ad3320","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=224320&bn=1&bt=61&tuid=1&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&rnd=00[rnd]&tail256=[domain]","adName":"ad3320","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://cdn-rtb.sape.ru/rtb-b/vast/795/825795.xml","adName":"ad2302","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://cdn-rtb.sape.ru/rtb-b/vast/795/825795.xml","adName":"ad2302","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://clientside-video-bidder.rutarget.ru/bid?url=[domain]&request_id=00[rnd]&placement_id=1324&placement=1&protocols=2&protocols=3&protocols=5&protocols=6&mimes=application/javascript&vd_api_0=VPAID_2_0&video_skippable=allow","adName":"ad4010","checkVisibility":true,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://clientside-video-bidder.rutarget.ru/bid?url=[domain]&request_id=00[rnd]&placement_id=1324&placement=1&protocols=2&protocols=3&protocols=5&protocols=6&mimes=application/javascript&vd_api_0=VPAID_2_0&video_skippable=allow","adName":"ad4010","checkVisibility":true,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://pub-eu.p.otm-r.com/get?placement_id=27369&placement=1","adName":"OTM_lc","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://pub-eu.p.otm-r.com/get?placement_id=27369&placement=1","adName":"OTM_lc","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://relap.mail.ru/vast/showjet_outstream?domain=[domain]","adName":"ad2107","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://relap.mail.ru/vast/showjet_outstream?domain=[domain]","adName":"ad2107","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ssp.bidvol.com/vast/pl25610?domain=[domain]","adName":"ad4300","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ssp.bidvol.com/vast/pl25610?domain=[domain]","adName":"ad4300","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/936894?dl=[DOMAIN]","adName":"adcamp2","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":true,"minPlayerSize":0,"MRImp":true,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/936894?dl=[DOMAIN]","adName":"adcamp2","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":true,"minPlayerSize":0,"MRImp":true,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://moevideo.biz/vast?ref=showjet.ru&impressionAfterPaid=1&vl=1&es=1&referer=[domain]","adName":"MV","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://moevideo.biz/vast?ref=sj70.ru&impressionAfterPaid=1&vl=1&es=1&maxAds=5&referer=[domain]","adName":"ad2110","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.video-mech.ru/tag/99921","adName":"ad1831","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.video-mech.ru/tag/99921","adName":"ad1831","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://svr.adstreamer.ru/vpaid.php/1399","adName":"ad3600","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false}],[{"url":"https://ad.mail.ru/vast/845945?dl=[domain]","adName":"ad1014","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/845945?dl=[domain]","adName":"ad1014","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/106086","adName":"mytarget","checkVisibility":false,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=221219&bn=3&bt=61&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&tuid=1&rnd=[rnd]&tail256=[domain]","adName":"ad3300","checkVisibility":true,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=221219&bn=3&bt=61&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&tuid=1&rnd=[rnd]&tail256=[domain]","adName":"ad3300","checkVisibility":true,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=224320&bn=1&bt=61&tuid=1&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&rnd=00[rnd]&tail256=[domain]","adName":"ad3320","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.adriver.ru/cgi-bin/erle.cgi?sid=224320&bn=1&bt=61&tuid=1&pz=0&vz=1&vp=5&target=blank&vmindn=5&vmaxdn=30&vminbtr=1&vmaxbtr=1010&rnd=00[rnd]&tail256=[domain]","adName":"ad3320","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://cdn-rtb.sape.ru/rtb-b/vast/795/825795.xml","adName":"ad2302","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://cdn-rtb.sape.ru/rtb-b/vast/795/825795.xml","adName":"ad2302","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://clientside-video-bidder.rutarget.ru/bid?url=[domain]&request_id=00[rnd]&placement_id=1324&placement=1&protocols=2&protocols=3&protocols=5&protocols=6&mimes=application/javascript&vd_api_0=VPAID_2_0&video_skippable=allow","adName":"ad4010","checkVisibility":true,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://clientside-video-bidder.rutarget.ru/bid?url=[domain]&request_id=00[rnd]&placement_id=1324&placement=1&protocols=2&protocols=3&protocols=5&protocols=6&mimes=application/javascript&vd_api_0=VPAID_2_0&video_skippable=allow","adName":"ad4010","checkVisibility":true,"checkBrowser":false,"vpaidMode":1,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://pub-eu.p.otm-r.com/get?placement_id=27369&placement=1","adName":"OTM_lc","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://pub-eu.p.otm-r.com/get?placement_id=27369&placement=1","adName":"OTM_lc","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://relap.mail.ru/vast/showjet_outstream?domain=[domain]","adName":"ad2107","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://relap.mail.ru/vast/showjet_outstream?domain=[domain]","adName":"ad2107","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ssp.bidvol.com/vast/pl25610?domain=[domain]","adName":"ad4300","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ssp.bidvol.com/vast/pl25610?domain=[domain]","adName":"ad4300","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/936894?dl=[DOMAIN]","adName":"adcamp2","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":true,"minPlayerSize":0,"MRImp":true,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.mail.ru/vast/936894?dl=[DOMAIN]","adName":"adcamp2","checkVisibility":false,"checkBrowser":true,"vpaidMode":2,"showControl":true,"minPlayerSize":0,"MRImp":true,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://moevideo.biz/vast?ref=showjet.ru&impressionAfterPaid=1&vl=1&es=1&referer=[domain]","adName":"MV","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://moevideo.biz/vast?ref=sj70.ru&impressionAfterPaid=1&vl=1&es=1&maxAds=5&referer=[domain]","adName":"ad2110","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.video-mech.ru/tag/99921","adName":"ad1831","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://ad.video-mech.ru/tag/99921","adName":"ad1831","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false},{"url":"https://svr.adstreamer.ru/vpaid.php/1399","adName":"ad3600","checkVisibility":false,"checkBrowser":false,"vpaidMode":2,"showControl":false,"minPlayerSize":0,"MRImp":false,"YaCategory":null,"YaImpId":null,"YaPartnerId":0,"ShowFirst":false}]];
+        var continuePlay = 0;
+        var PosterImg = '';
+        var auto = true;
+        var videotitle = '';
+        var shareurl = '';
+        var warning = '0&#x2B;';
+        var partner = 'none';
+        var skins = 's1';
+        var adreffer = 'https://showjet.ru';
+    //if (isPromo)
+    //{
+    //    document.getElementById("adLabel").style.display = "none";
+    //}
+    </script>
+
+    
+    
+        <script type="text/javascript" src="/js/player.min.js?v=lvl2Zvk3G-OXgm94zitiVmAtVvuUpXHAo9Lh-DlFDvg" async></script>
+    
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157157103-4"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments) };
+    gtag('js', new Date());
+
+    gtag('config', 'UA-157157103-4');
+</script>
+<!---->
+<!-- mytarget -->
+<!-- mytarget -->
+<!-- Rating@Mail.ru counter -->
+<!-- //Rating@Mail.ru counter -->
+<!-- Yandex.Metrika counter -->
+<script async type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter31407033 = new Ya.Metrika({
+                    id: 31407033,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true
+                });
+            } catch (e) {
+            }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks");
+</script> <noscript>
+    <div>
+        <img src="https://mc.yandex.ru/watch/31407033" style="position: absolute; left: -9999px;" alt="" />
+    </div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- tns-counter.ru -->
+        <script type="text/javascript">
+            (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g, '%2a') + '*custom_ad/ru/UTF-8/tmsec=custom_cid1026782-posid1410905/' + Math.round(Math.random() * 1E9);
+        </script>
+        <noscript>
+            <img src="//www.tns-counter.ru/V13a****custom_ad/ru/UTF-8/tmsec=custom_cid1026782-posid1410905/" width="1" height="1" alt="" />
+        </noscript>
+<!--/ tns-counter.ru -->
+</body>
+</html>

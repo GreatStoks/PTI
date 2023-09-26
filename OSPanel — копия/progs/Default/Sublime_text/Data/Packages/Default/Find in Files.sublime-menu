@@ -1,0 +1,52 @@
+[
+    {
+        "caption": "Очистить", 
+        "command": "clear_location"
+    }, 
+    {
+        "caption": "Добавить папку", 
+        "command": "add_directory"
+    }, 
+    {
+        "caption": "Добавить включающий фильтр", 
+        "args": {
+            "snippet": "*.${0:txt}"
+        }, 
+        "command": "add_where_snippet"
+    }, 
+    {
+        "caption": "Добавить исключающий фильтр", 
+        "args": {
+            "snippet": "-*.${0:txt}"
+        }, 
+        "command": "add_where_snippet"
+    }, 
+    {
+        "caption": "Добавить фильтры проекта", 
+        "args": {
+            "snippet": "<project filters>"
+        }, 
+        "command": "add_where_snippet"
+    }, 
+    {
+        "caption": "Добавить открытые папки", 
+        "args": {
+            "snippet": "<open folders>"
+        }, 
+        "command": "add_where_snippet"
+    }, 
+    {
+        "caption": "Добавить открытые файлы", 
+        "args": {
+            "snippet": "<open files>"
+        }, 
+        "command": "add_where_snippet"
+    }, 
+    {
+        "caption": "Добавить текущий файл", 
+        "args": {
+            "snippet": "<current file>"
+        }, 
+        "command": "add_where_snippet"
+    }
+]

@@ -1,0 +1,310 @@
+{
+   "checksum": "968345828aacfac4d16c9c6e3d898bc1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13331221960559457",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "custom_root": {
+         "pinboard": {
+            "children": [  ],
+            "date_added": "13331221960559563",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000907",
+            "id": "7",
+            "name": "Pinboard",
+            "type": "folder"
+         },
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13331221961913017",
+                  "date_last_used": "0",
+                  "guid": "4e7842a9-cd5b-498e-a9f7-1f23b2d6a7b9",
+                  "id": "11",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/8736d05c2dc3c5118737c02769c9fbd05b80beda.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3936d5e0c993c3e132da48d7b71b3952ae757362.png",
+                     "imageDataType": "2",
+                     "imageID": "FFE173B19A32BC86D1FDF397856C7F5443CECD82E8D567699EEA3EF9E0FBA7CF",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.684768823867782e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "yandex_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3936d5e0c993c3e132da48d7b71b3952ae757362.png",
+                     "partner_url": "https://ya.ru/?clid=9403",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/yandex_ru",
+                     "replaceability": "0",
+                     "revision": "20220801",
+                     "server_position": "1"
+                  },
+                  "name": "Яндекс",
+                  "type": "url",
+                  "url": "https://ya.ru/"
+               }, {
+                  "date_added": "13331221961921284",
+                  "date_last_used": "0",
+                  "guid": "8c353b6b-0da3-4626-a2cc-28b381c855e4",
+                  "id": "18",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/25a10c7c85318fa458d012099137b33657df3c10.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/0d223edee110e4d06865e27b9f1e481ea1b1aa66.png",
+                     "imageDataType": "2",
+                     "imageID": "55404489772F71A6AA00A28ACD773FD4F5F520F427666EC3DFD320824DBAB529",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.684768823867782e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "googledrive_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/0d223edee110e4d06865e27b9f1e481ea1b1aa66.png",
+                     "partner_url": "https://drive.google.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/googledrive_ru",
+                     "replaceability": "0",
+                     "revision": "20230301",
+                     "server_position": "20"
+                  },
+                  "name": "Google Drive",
+                  "type": "url",
+                  "url": "https://drive.google.com/"
+               }, {
+                  "date_added": "13331221961923483",
+                  "date_last_used": "0",
+                  "guid": "17f1a56e-9e0a-4089-9b6d-a3fc5b07b685",
+                  "id": "19",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/f630beaa98d8d529ade9af1153a86190d4f120e5.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/8ba8e6da4bdd857936b1d19494e536fb4207e130.png",
+                     "imageDataType": "2",
+                     "imageID": "70F4C76D4EFA205E35DA9542A3D889F2F959473BFDC16D6209099E7C48DF63D7",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.684768823867782e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "youtube_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/8ba8e6da4bdd857936b1d19494e536fb4207e130.png",
+                     "partner_url": "https://www.youtube.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/youtube_ru",
+                     "replaceability": "0",
+                     "revision": "20230113",
+                     "server_position": "21"
+                  },
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/"
+               }, {
+                  "date_added": "13331221961924350",
+                  "date_last_used": "0",
+                  "guid": "5ae02b3f-e760-401a-b3c2-6547d7314997",
+                  "id": "20",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/d5f7d02238b5578db482efa927d03f1c098695c2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/25431bc193bae220157ad386090a68d9399bd355.png",
+                     "imageDataType": "2",
+                     "imageID": "39797465730A980FECAFA458D5E0D078B87AFC1A68E4E65BCDBA879BCAE6A823",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.684768823867782e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "wikipedia_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/25431bc193bae220157ad386090a68d9399bd355.png",
+                     "partner_url": "https://www.wikipedia.org/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/wikipedia_ru",
+                     "replaceability": "0",
+                     "revision": "20230113",
+                     "server_position": "22"
+                  },
+                  "name": "Wikipedia",
+                  "type": "url",
+                  "url": "https://www.wikipedia.org/"
+               }, {
+                  "date_added": "13331221961926080",
+                  "date_last_used": "0",
+                  "guid": "d03e0e7e-aae2-4f0d-ab44-861e7f6d5856",
+                  "id": "21",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/4c03debbc3121c9bfc725fafa8634e0ba9ef5218.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/2147d3510cdaed398fe11cfffce3498c3d5409ee.png",
+                     "imageDataType": "2",
+                     "imageID": "A5E828E65FB521AAFD05A36EED10B8B4420DBB7FF43A306E2CC690036685D0BB",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.684768823867782e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "pinterest_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/2147d3510cdaed398fe11cfffce3498c3d5409ee.png",
+                     "partner_url": "https://www.pinterest.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/pinterest_ru",
+                     "replaceability": "0",
+                     "revision": "20230113",
+                     "server_position": "23"
+                  },
+                  "name": "Pinterest",
+                  "type": "url",
+                  "url": "https://www.pinterest.com/"
+               }, {
+                  "date_added": "13331221962381026",
+                  "date_last_used": "0",
+                  "guid": "c632a0b3-5891-471f-bd5d-3008ee987603",
+                  "id": "22",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/38a22623ae5ef971a01f5de3b3b1fb3d8ee6e52d.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/b85f71074865a850ab42c10d25dc2a31821d2958.png",
+                     "imageDataType": "2",
+                     "imageID": "68998665B45E45F918DD5D104DF93EA23F28D6AC2AB976EEA2D93A065C9E7B99",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.684768823867782e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "apexfootball_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/b85f71074865a850ab42c10d25dc2a31821d2958.png",
+                     "partner_url": "https://www.apex-football.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/apexfootball_ru",
+                     "replaceability": "0",
+                     "revision": "20230113",
+                     "server_position": "25"
+                  },
+                  "name": "Apex Football",
+                  "type": "url",
+                  "url": "https://www.apex-football.com/"
+               }, {
+                  "date_added": "13331221962382952",
+                  "date_last_used": "0",
+                  "guid": "ff6ddc33-4525-488e-9bc3-952e764bfebf",
+                  "id": "23",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/703cbfbfac7b42093c528b1551765c85cef4cd7a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/a68fae3465d562b87f33cac0bebae4d2119ad4d0.png",
+                     "imageDataType": "2",
+                     "imageID": "ED8A4B8A3111D91E6A9CE47F50B39648805AC8CEDEF7C94BB6CEC85D6105A9C3",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.684768823867782e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "accuweather_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/a68fae3465d562b87f33cac0bebae4d2119ad4d0.png",
+                     "partner_url": "https://www.accuweather.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/accuweather_ru",
+                     "replaceability": "0",
+                     "revision": "20230113",
+                     "server_position": "27"
+                  },
+                  "name": "AccuWeather",
+                  "type": "url",
+                  "url": "https://www.accuweather.com/"
+               }, {
+                  "date_added": "13336428275067612",
+                  "date_last_used": "0",
+                  "guid": "906105e4-c2f4-48a8-a067-9a29e8d8b62b",
+                  "id": "24",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e68d6aed5a71c8bf08435cccec050aba8ceec72f.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/a17380dbb9b066104ce4eb1d65b601f100025a12.png",
+                     "imageDataType": "2",
+                     "imageID": "E75DF7AEB4F2C384AF75C866D4B04DEFA1D981DD243229E00E8949609FEA54A9",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.689967475160763e+12",
+                     "nav_timestamp_reset_version": "1",
+                     "partner_id": "chess_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/a17380dbb9b066104ce4eb1d65b601f100025a12.png",
+                     "partner_url": "https://redirector.opera.com/redirect?type=syn&rid=719",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/chess_ru",
+                     "replaceability": "0",
+                     "revision": "20230630",
+                     "server_position": "28"
+                  },
+                  "name": "Chess.com",
+                  "type": "url",
+                  "url": "https://www.chess.com/"
+               } ],
+               "date_added": "13331221961700535",
+               "date_last_used": "0",
+               "date_modified": "13336428275067612",
+               "guid": "6c24a254-c556-44c9-a46f-23e48c89e7f0",
+               "id": "10",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "79ac1a5f-435b-482c-8a99-a9d38224061e"
+               },
+               "name": "DESKTOP-8H9DRT7",
+               "type": "folder"
+            } ],
+            "date_added": "13331221960559560",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000904",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13331221960559568",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000905",
+            "id": "9",
+            "name": "Корзина",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13331221960559547",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000901",
+            "id": "4",
+            "name": "Несортированные закладки",
+            "type": "folder"
+         },
+         "unsyncedPinboard": {
+            "children": [  ],
+            "date_added": "13331221960559565",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000908",
+            "id": "8",
+            "name": "Unsynchronized Pinboard",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13331221960559555",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000902",
+            "id": "5",
+            "name": "Другие закладки",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13331221960559459",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Импортированные закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13331221960559461",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

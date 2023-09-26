@@ -1,0 +1,28 @@
+[
+    {
+        "caption": "Открыть URL контекста", 
+        "command": "open_context_url"
+    }, 
+    {
+        "caption": "-"
+    }, 
+    {
+        "caption": "Вырезать", 
+        "command": "cut"
+    }, 
+    {
+        "caption": "Копировать", 
+        "command": "copy"
+    }, 
+    {
+        "caption": "Вставить", 
+        "command": "paste"
+    }, 
+    {
+        "caption": "-"
+    }, 
+    {
+        "caption": "Выделить всё", 
+        "command": "select_all"
+    }
+]

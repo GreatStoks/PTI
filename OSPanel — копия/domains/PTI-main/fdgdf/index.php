@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Персональный сайт</title>
+    <link rel="stylesheet" href="style.css">
+ <script src="https://kit.fontawesome.com/dd180fc14e.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+	<nav>
+        <div class="logo">
+			<a href="index.php"><img src="logo.png" alt="логотип"></a>
+        </div>
+        
+            <ul>
+                <li><a href="index.php">О себе</a></li>
+                <li><a href="resume.php">Резюме</a></li>
+                <li><a href="certification.php">Запись на аттестацию</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Такойто Такойтович</h1>
+        <p>Группа ПИС 19</p>
+        <img src="takoito.jpg" alt="Такойто Такойтович">
+        <p>Название и ссылка на сервер ВУЗа: <a href="https://lms.uni-dubna.ru/">Университет Дубна</a></p>
+        <p>Я студент ПИС 19, делаю то то и увлекаюсь тем то тем то.</p>
+    </main>
+    <footer>
+        <div class="social">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+	<div>
+            <i class="fa-regular fa-thumbs-up fa-5x"></i>
+	</div>
+        <div class="credits">
+            <p>Сайт разработан <span>ФИ</span>.</p>
+            <p>Copyright © 2023.</p>
+        </div>
+    </footer>
+</body>
+</html>

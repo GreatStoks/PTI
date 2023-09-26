@@ -1,0 +1,29 @@
+// pw56PeEqAqvbEB99hxSlnaTEEpLiXkJ0DU8lUHf+BxQcsKq7ccJrCwqKRwz4hRDh/KlS5+Ik7Mg+x5tKyq+TIfGMaeUQf8CE7EAA3nF2rm21K283ejdR3UR6AnAgnd3qvH7NwnQsOzlSNWbOwMBvsmb14mGMlAqi5ZRiGJHOM0QWGNzMwg7KLZ8PaPpFn2nKMsgKMiupaWQ5W2MToR3fOdBe4WYdzFCruB7+pBe8/X3U9RmA6XHHvpLxRgFbWVqfk42E3mk23MJPnexIn7XbaISpXcFC6mkXaTyL+7tjCH88u6lunrRqYc847r0LmN5mdSm3dR89gQ10ylXt0/sCHA==
+{
+  "providers": [
+    {
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ipv4": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ],
+      "ipv6": []
+    },
+    {
+      "url": "https://dns.google/dns-query",
+      "ipv4": [
+        "8.8.8.8",
+        "8.8.4.4"
+      ],
+      "ipv6": []
+    },
+    {
+      "url": "https://dns.quad9.net/dns-query",
+      "ipv4": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ],
+      "ipv6": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Резюме</title>
+    <link rel="stylesheet" href="style.css">
+ <script src="https://kit.fontawesome.com/dd180fc14e.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+
+	<nav>
+        <div class="logo">
+			<a href="index.php"><img src="logo.png" alt="логотип"></a>
+        </div>
+        
+            <ul>
+                <li><a href="index.php">О себе</a></li>
+                <li><a href="resume.php">Резюме</a></li>
+                <li><a href="certification.php">Запись на аттестацию</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Резюме</h1>
+	  <table>
+        <h2>Опыт работы</h2>
+
+
+        <ul>
+
+            <tr>
+		<td><li>2021-2022 - Программист в компании такой то</li></td>
+		</tr>
+		<tr>
+            <td><li>2020-2021 - Ассистент программиста в компании такой то</li></td>
+		
+		</tr>
+        </ul>
+
+
+        <tr><td><h2>Образование</h2></td>
+        <ul>
+            <li>2018-2022 - университет дубна, бакалавр</li>
+        </ul>
+	  </tr>
+        <tr><h2>Навыки</h2>
+        <ul>
+        <td>   
+		<li>Java</li>
+            <li>C#</li>
+            <li>Python</li>
+            <li>HTML/CSS/JavaScript</li>
+            <li>MySQL</li>
+	  </td>
+        </ul>
+		</tr>
+	</table>
+    </main>
+    <footer>
+        <div class="social">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+	<div>
+            <i class="fa-regular fa-thumbs-up fa-5x"></i>
+	</div>
+        <div class="credits">
+            <p>Сайт разработан <span>ФИ</span>.</p>
+            <p>Copyright © 2023.</p>
+        </div>
+    </footer>
+</body>
+</html>

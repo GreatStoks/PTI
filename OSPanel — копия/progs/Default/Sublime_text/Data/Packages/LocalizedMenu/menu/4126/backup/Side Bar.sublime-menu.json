@@ -1,0 +1,107 @@
+[
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "Новый файл", 
+        "command": "new_file_at"
+    }, 
+    {
+        "args": {
+            "paths": []
+        }, 
+        "caption": "Переименовать…", 
+        "command": "rename_path"
+    }, 
+    {
+        "args": {
+            "files": [], 
+            "prompt": false
+        }, 
+        "caption": "Удалить файл", 
+        "command": "delete_file"
+    }, 
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "Открыть папку…", 
+        "command": "open_folder"
+    }, 
+    {
+        "args": {
+            "files": []
+        }, 
+        "caption": "Открыть папку файла…", 
+        "command": "open_containing_folder"
+    }, 
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "Показать источник ссылки", 
+        "command": "reveal_link_source"
+    }, 
+    {
+        "id": "repo_commands", 
+        "caption": "-"
+    }, 
+    {
+        "args": {
+            "paths": []
+        }, 
+        "caption": "Открыть Git репозиторий…", 
+        "command": "sublime_merge_open_repo"
+    }, 
+    {
+        "args": {
+            "files": []
+        }, 
+        "caption": "История файла…", 
+        "command": "sublime_merge_file_history"
+    }, 
+    {
+        "args": {
+            "paths": []
+        }, 
+        "caption": "История папки…", 
+        "command": "sublime_merge_folder_history"
+    }, 
+    {
+        "args": {
+            "files": []
+        }, 
+        "caption": "Кто редактировал…", 
+        "command": "sublime_merge_blame_file"
+    }, 
+    {
+        "id": "folder_commands", 
+        "caption": "-"
+    }, 
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "Новая папка…", 
+        "command": "new_folder"
+    }, 
+    {
+        "args": {
+            "prompt": true, 
+            "dirs": []
+        }, 
+        "caption": "Удалить папку", 
+        "command": "delete_folder"
+    }, 
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "Найти в папке…", 
+        "command": "find_in_folder"
+    }, 
+    {
+        "id": "end", 
+        "caption": "-"
+    }
+]

@@ -1,0 +1,36 @@
+{
+"version": 6,
+"list": [
+    {
+        "urlMask": "https://meet.google.com/.*",
+        "width": 700,
+        "height": 450,
+        "blocked": [
+            "https://meet.google.com/",
+            "https://meet.google.com/about.*"
+        ]
+    },
+    {
+        "urlMask": "https://whereby.com/.*",
+        "width": 700,
+        "height": 450,
+        "blocked": [
+            "https://whereby.com/",
+            "https://whereby.com/blog.*",
+            "https://whereby.com/information.*",
+            "https://whereby.com/sitemap.*",
+            "https://whereby.com/user.*"
+        ]
+    },
+    {
+        "urlMask": "https://teams.live.com/_#/pre-join-calling/",
+        "width": 700,
+        "height": 450
+    },
+    {
+        "urlMask": "https://teams.microsoft.com/_#/pre-join-calling/",
+        "width": 700,
+        "height": 450
+    }
+]
+}
